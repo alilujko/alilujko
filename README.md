@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Utitan 👋
 
-<!--
-**alilujko/alilujko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я розробляю різні проекти під брендом **Utitan**.
 
-Here are some ideas to get you started:
+**Programing Language Dev** · Low-level · Game Dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Чим займаюсь зараз
+
+- 🛠️ Створюю власну мову програмування **C--**
+- 🎮 Роблю гру на **Unity**
+
+## 🎯 Інтереси
+
+- Низькорівнева розробка
+- Мови програмування
+- Створення мов програмування (компілятори, інтерпретатори)
+
+## 💻 Стек
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+## 🧰 Середовище та інструменти
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📌 Проєкт: C--
+
+**C--** — проста мова програмування, створена для розробки серверів
+та роботи з базами даних. Мета: мінімалістичний синтаксис і низькорівнева
+швидкість без зайвої складності.
+
+---
+
+⭐ Став зірку репозиторіям, якщо щось сподобалось!

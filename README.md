@@ -40,16 +40,17 @@
 
 ---
 
-## 📌 Проєкти
-
 ## 📌 Проєкт: C--
 
 **C--** — проста мова програмування, створена для розробки серверів
 та роботи з базами даних. Мета: мінімалістичний синтаксис і низькорівнева
 швидкість без зайвої складності.
 
-
 ### Code Bloom
-Я співрозробник **[code-bloom.org](https://code-bloom.org)**, працюємо над ним командою.
 
-[![Code Bloom](https://img.shields.io/badge/Code_Bloom-code--bloom.org-3FA34D?style=for-the-badge)](https://code-bloom.org)
+<a href="https://code-bloom.org">
+  <img src="https://www.code-bloom.org/images/logo_main.png" height="50" alt="Code Bloom icon">
+  <img src="https://www.code-bloom.org/images/logo_text_main.png" height="50" alt="Code Bloom">
+</a>
+
+Я співрозробник **[Code Bloom](https://code-bloom.org)**: платформи для тих, хто вчиться програмувати. Там є чат за темами, форум, ШІ-помічник та інструкція для новачків. Працюємо над нею командою.

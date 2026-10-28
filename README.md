@@ -1,12 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0d2818,100:2a6b2f&text=utitan-art%20%7C%20Utitan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Low-level%20systems%20%E2%80%A2%20C%23%20%E2%80%A2%20Language%20dev%20%E2%80%A2%20Linux&descSize=18&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=80&pause=1500&color=3FA34D&width=500&lines=Building+the+Utitan+ecosystem)](https://github.com/utitan-art);[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=80&pause=1500&color=3FA34D&width=600&lines=Building+the+Utitan+ecosystem;Creating+the+C--+language;Making+a+game+on+Unity;Low-level+is+my+way)](https://github.com/utitan-art)
-
-# Hi, I'm Utitan 👋
-
-Я розробляю різні проекти під брендом **Utitan**.
-
-**Programing Language Dev** · Low-level · Game Dev
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=3FA34D&width=700&lines=Я+розробляю+мову+програмування+C--;Працюю+з+серверами+та+бекендом;Роблю+гру+на+Unity;Низькорівнева+розробка+—+мій+шлях)](https://github.com/utitan-art)
 
 ---
 
@@ -20,6 +14,9 @@
 - Низькорівнева розробка
 - Мови програмування
 - Створення мов програмування (компілятори, інтерпретатори)
+- Бекенд
+- Сервери
+- Бази даних
 
 ## 💻 Стек
 
@@ -45,7 +42,3 @@
 **C--** — проста мова програмування, створена для розробки серверів
 та роботи з базами даних. Мета: мінімалістичний синтаксис і низькорівнева
 швидкість без зайвої складності.
-
----
-
-⭐ Став зірку репозиторіям, якщо щось сподобалось!
